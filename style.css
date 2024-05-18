@@ -1,0 +1,42 @@
+h1{
+font-family:Monotype Corsiva;
+font-size:"50px";
+background:grey;
+text-align:center;
+color:black;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin:10px;
+}
+
+ul{
+list-style:none;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+}
+
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+}
+
+p{
+    margin-left:20px;
+    margin-right:20px;
+    background:aliceblue;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.Highlight{
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+background:#C4A484;
+font-size:medium;
+text-align: center;}
